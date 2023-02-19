@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "creatvirtue:item/wooden_fish"
+  }
+}

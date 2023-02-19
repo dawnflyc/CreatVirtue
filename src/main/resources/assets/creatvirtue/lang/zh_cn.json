@@ -1,0 +1,9 @@
+{
+  "item.creatvirtue.beads": "念珠",
+  "item.creatvirtue.wooden_fish": "木鱼",
+  "text.item.capa_text":"当前的功德是:%d",
+  "text.die_text": "由于你功高德后，你的经验值没有损失",
+  "text.anvil_good":"由于你宅心仁厚，你的铁砧被保护了",
+  "text.anvil_bad":"由于你作恶多端，你的铁砧受不了损坏了",
+
+}
